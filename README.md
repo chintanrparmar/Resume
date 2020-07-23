@@ -2,6 +2,8 @@
 
 # [Chintan Parmar](mailto:chintanrparmar@outlook.com)
 
+[Portfolio](https://chintan.app) | 
+[Twitter](https://twitter.com/chintanrparmar) | 
 [GitHub](https://github.com/chintanrparmar) | [Stackoverflow](https://stackoverflow.com/story/chintanrparmar) | [LinkedIn](https://www.linkedin.com/in/chintanrparmar/) | [Blog](https://dev.to/chintan)
 
 
